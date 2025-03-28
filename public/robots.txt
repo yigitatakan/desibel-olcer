@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://desibel-olcer.vercel.app/sitemap.xml
